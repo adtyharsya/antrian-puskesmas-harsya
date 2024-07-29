@@ -12,7 +12,7 @@
             <input type="password" class="form-control" name="new_password" id="exampleInputPassword1" placeholder="Password Baru" required="required">
           </div>
           <div class="form-group">
-            <label for="exampleInputPassword1">Password Baru Lagi</label>
+            <label for="exampleInputPassword1">Konfirmasi Password Baru</label>
             <input type="password" class="form-control" name="re_password" id="exampleInputPassword1" placeholder="Password Baru" required="required">
           </div>
         <button type="submit" class="btn btn-default">Simpan</button>

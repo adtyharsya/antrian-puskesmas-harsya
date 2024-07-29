@@ -8,7 +8,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Antrian Puskesmas </title>
+  <title>Antrian Puskesmas Harsya</title>
   <link rel="shortcut icon" href="assets/user/img/logo.png">
 
   <!-- Custom fonts for this theme -->
@@ -49,7 +49,7 @@
   <!-- Navigation -->
   <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">Antrian Puskesmas</a>
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">Antrian Puskesmas Harsya</a>
       <button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
         Menu
         <i class="fas fa-bars"></i>
@@ -85,10 +85,10 @@
       
 
       <!-- Masthead Heading -->
-      <h1 class="masthead-heading text-uppercase mb-0"><img class="masthead-avatar mb-5" src="<?php echo base_url('assets/user') ?>/img/logo.png" alt="">Puskesmas X</h1>
+      <h1 class="masthead-heading text-uppercase mb-0"><img class="masthead-avatar mb-5" src="<?php echo base_url('assets/user') ?>/img/logo.png" alt="">Puskesmas Harsya</h1>
       <div class="row">
           <div class="col-md-12" style="border: thin solid; ">
-            <h3>NO ANTRIAN SAAT INI</h3>
+            <h3>NO ANTRIAN ANDA SAAT INI</h3>
           <h1 style="margin-top: 5px;"><?php echo $no_antrian; ?></h1>
           </div>
       </div>
@@ -110,8 +110,8 @@
         </div>
       <?php } ?>
       <?php if(empty($this->session->userdata('id_pasien'))){ ?>
-        <h4 class="masthead mb-0" style="margin-top: 10px !important;padding: 20px;">Selamat Datang di Puskesmas X. 
-        <br> Jika anda belum memiliki akun, silakan Registrasi terlebih dahulu.</h4>
+        <h4 class="masthead mb-0" style="margin-top: 10px !important;padding: 20px;">Selamat Datang di Puskesmas Harsya 
+        <br> Silakan Registrasi Jika Anda Belum Memiliki Akun</h4>
         <button type="button" class="btn btncostume" data-toggle="modal" data-target="#exampleModal">
           Registrasi
         </button>
@@ -182,7 +182,7 @@
                   </div>
                   
                 </form>
-                <br><center><p>Repost by <a href='https://sharecodingan.blogspot.com/' title='sharecodingan.blogspot.com' target='_blank'>Share Codingan</a></p></center>
+                <br><center><p>Powered by <a href='https://www.instagram.com/adtyharsya?igsh=Z3l0Zm5kNDdyZXF5' title='instagram.com/adtyharsya' target='_blank'>instagram.@adtyharsya</a></p></center>
                 
               </div>
             </div>
@@ -317,16 +317,16 @@
 
         <!-- Footer Location -->
         <div class="col-lg-6 mb-5 mb-lg-0">
-          <h4 class="text-uppercase mb-4">Location</h4>
-          <p class="lead mb-0">Jalan Kenangan Indah 4E 
-            <br>No.16 Rt.07/Rw.98</p>
+          <h4 class="text-uppercase mb-4">Lokasi</h4>
+          <p class="lead mb-0">Jalan Harsya Keren, Jagakarsa, Jakarta Selatan
+            <br>No.26 Rt.08/Rw.03</p>
         </div>
 
         <!-- Footer About Text -->
         <div class="col-lg-6">
-          <h4 class="text-uppercase mb-4">Telephone</h4>
+          <h4 class="text-uppercase mb-4">No. Telp</h4>
           
-          <p class="lead mb-0">(021)79184767</p>
+          <p class="lead mb-0">085884479162</p>
         </div>
 
       </div>
@@ -336,7 +336,7 @@
   <!-- Copyright Section -->
   <section class="copyright py-4 text-center text-white">
     <div class="container">
-      <small>&copy; 2022 - Abid Taufiqur Rohman </small>
+      <small>&copy; 2024 - Muhammad Harsya Aditya </small>
     </div>
   </section>
 

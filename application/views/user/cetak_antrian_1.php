@@ -12,8 +12,8 @@
 
   	<div class="card" style="width: 20rem;">
 	  <ul class="list-group list-group-flush">
-	    <li class="list-group-item text-center"><h3>SELAMAT DATANG</h3><h5>Di Puskesmas X</h5>
-	    	<h8>Jalan Kenangan Indah 4E No.16 Rt.07/Rw.98</h8>
+	    <li class="list-group-item text-center"><h3>SELAMAT DATANG</h3><h5>Di Puskesmas Harsya</h5>
+	    	<h8>Jalan Harsya Keren No.26 Rt.08/Rw.03</h8>
 		</li>
 	    <li class="list-group-item text-center">
 	    	<div class="row card-link"><?php echo $row['tgl'] ?></div>

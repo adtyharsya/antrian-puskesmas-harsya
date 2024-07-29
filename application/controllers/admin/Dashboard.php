@@ -14,7 +14,7 @@ class Dashboard extends CI_Controller {
     function index(){
         $data['active']     = 'dash';
         $data['judul_1']    = 'Dashboard';
-        $data['judul_2']    = 'Selamat Datang | Admin';
+        $data['judul_2']    = 'Selamat Datang di Puskesmas Harsya - Admin';
         
         $data['page']       = 'v_dashboard';
         $data['menu']       = $this->Menus->generateMenu();

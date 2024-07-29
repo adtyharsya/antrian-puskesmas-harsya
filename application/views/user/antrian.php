@@ -81,7 +81,7 @@
           </div>
       </div>
       <!-- Masthead Heading -->
-      <h4 class="masthead mb-0" style="margin-top: 10px !important;padding: 20px;">Selamat Datang di Puskesmas X. 
+      <h4 class="masthead mb-0" style="margin-top: 10px !important;padding: 20px;">Selamat Datang di Puskesmas Harsya. 
         <br> Jika anda belum memiliki akun, silakan Registrasi terlebih dahulu.</h4>
         <button type="button" class="btn btncostume" onclick="noAntrian()">
           Ambil Nomor
